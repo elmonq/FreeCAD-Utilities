@@ -9,4 +9,4 @@ In order to run the utilities it requires the following:
 
 ## Helpful Links
 * FreeCAD Python Documentation: https://wiki.freecadweb.org/Python
-* FreeCAD Python Power USers Hub: https://wiki.freecadweb.org/Power_users_hub
+* FreeCAD Python Power Users Hub: https://wiki.freecadweb.org/Power_users_hub
